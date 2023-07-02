@@ -9,6 +9,11 @@ Calc-Explorer is a Python program built with PyQt5 that provides a convenient an
     + **Normal Calculator:** A standard calculator for performing basic arithmetic operations like addition, subtraction, multiplication, and division.
     + **50/30/20 Budget Calculator:** Helps you allocate your income into three categories: 50% for needs, 30% for wants, and 20% for savings.
     + **Discount Calculator:** Calculates the discounted price of an item based on the original price and the discount percentage.
+    + **Tip Calculator:** Generates a Table of all possible tip amounts based off of the total price. Shows Tip total and Price total after the tip.
+    + **Body Mass Index Calculator:** Calculates your Body Mass Index using Weight and Height.
+    + **Sale Commission Calculator:** Calculates Sale Commission using Sale Price and Commission Percentage.
+    + **Mg/Gram Calculator:** Converts Milligrams to grams and vice versa.
+    + **Salary to Hourly Calculator:** Calculates Hourly pay based off Salary and hours worked per week.
 + **User-Friendly Interface:** Calc-Explorer offers an intuitive and visually appealing interface built with PyQt5, making it easy for users to interact with the calculators and manage tabs effortlessly.
 
 # Requirements:
