@@ -16,5 +16,7 @@ Calc-Explorer is a Python program built with PyQt5 that provides a convenient an
 + PyQt5
 
 # To Do:
-+ More Visually Appealing UI
-+ Split Bill Calculator
+- [X] Exponent Support for Normal Calculator Widget
+- [X] Tip Calculator
+- [ ] More Visually Appealing User Interface
+- [ ] Split Bill Calculation Widget
