@@ -5,7 +5,7 @@ from new_option_dialog import NewOptionDialog
 class TabbedWindow(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Calc-Explorer v1,0")
+        self.setWindowTitle("Calc-Explorer v1.1")
 
         self.tab_widget = QTabWidget()
         self.setCentralWidget(self.tab_widget)
