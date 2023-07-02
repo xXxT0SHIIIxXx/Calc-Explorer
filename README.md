@@ -14,3 +14,7 @@ Calc-Explorer is a Python program built with PyQt5 that provides a convenient an
 # Requirements:
 + Python 3.7 or Above.
 + PyQt5
+
+# To Do:
++ More Visually Appealing UI
++ Split Bill Calculator
