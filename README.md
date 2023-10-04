@@ -4,7 +4,7 @@ Calc-Explorer is a Python program built with PyQt5 that provides a convenient an
 ![](https://github.com/xXxT0SHIIIxXx/Calc-Explorer/blob/main/resources/CalcExplorershowcase.gif)
 
 # Features:
-+ **Tab Management:** Calc-Explorer allows you to create and manage multiple tabs, each containing a calculator of your choice. You can add new tabs, remove existing tabs, and easily switch between them.
++ **Tab Management:** Calc-Explorer allows you to create and manage multiple tabs, each containing a calculator of your choice. You can add new tabs, remove existing tabs, and easily switch between them. Right click in the empty space beside your tabs to open the Tab Menu.
 + **Calculator Presets:** The application provides several calculator presets to choose from, catering to different needs. These presets include:
     + **Normal Calculator:** A standard calculator for performing basic arithmetic operations like addition, subtraction, multiplication, and division.
     + **50/30/20 Budget Calculator:** Helps you allocate your income into three categories: 50% for needs, 30% for wants, and 20% for savings.
