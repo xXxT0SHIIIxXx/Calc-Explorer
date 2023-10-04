@@ -20,6 +20,16 @@ Calc-Explorer is a Python program built with PyQt5 that provides a convenient an
 + Python 3.7 or Above.
 + PyQt5
 
+# Installation:
+1. [Download the Latest Version of Anaconda](https://www.anaconda.com/download)
+2. Open Anaconda Prompt and Enter `conda create -n <name>`
+3. Activate Envionment `conda activate <name>`
+4. Navigate to environment directory `cd path/to/env/`
+5. Clone Github Repository `git clone https://github.com/xXxT0SHIIIxXx/Calc-Explorer.git`
+6. Install PyQT5 if you don't have it yet `pip install PyQt5`
+7. Navigate to the Program Folder `cd Calc-Explorer/Program`
+8. Run Program `python main.py`
+   
 # To Do:
 - [X] Exponent Support for Normal Calculator Widget
 - [X] Tip Calculator
